@@ -1,0 +1,28 @@
+body{
+    background-color: dodgerblue;
+    font-family: sans-serif;
+}
+
+span{
+    color: red;
+}
+
+h1{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+p{
+    background-color: gold;
+    text-align: justify;
+
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.box-1{
+    width: 50px;
+    margin: auto;
+}
